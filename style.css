@@ -63,9 +63,9 @@ p {
 }
 
 .texto {
-    width: 500px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin-top: -180px;
+    width: 400px;
+
+    margin-top: 0px;
     margin-left: -20px;
 }
 
@@ -78,10 +78,10 @@ p {
 .copinhos {
     display: flex;
     justify-content: center;
-    margin-left: -650px;
+    margin-left: -700px;
 }
 .copinhos {
-    margin-top: -150px;
+    margin-top: -180px;
    
 
 }
@@ -100,14 +100,14 @@ p {
     width: 500px;
     display: flex;
     justify-content: flex-end;
-    margin-top:100px;
-
+    margin-top:-100px;
+    margin-left:630px;
 }
     .copão {
         width: 250px;
         z-index: 2;
         display: flex;
-        margin-top: 100px;
+      
     }
 
     .circulo {
@@ -129,8 +129,8 @@ button {
     padding: 10px;
     border-radius: 60px;
     font-size: 20px;
-    margin-top: -180px;
-    margin-left: 100px;
+    margin-top: -50px;
+    margin-left: 20px;
     display: flex;
     
 }

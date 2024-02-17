@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Starbucks</title>
+
+
+
+</head>
+
+<body>
+    <div class="FRETE">
+
+        <h1>FRETE GRÁTIS COMPRAS ACIMA DE 100,00</h1>
+
+    </div>
+
+
+    <div class="circulo"> </div>
+
+    <div class="logo-centro">
+        <img src="./aula1.png" alt="logo-Starbucks" class="LOGO">
+        
+    </div>
+
+    <div class="conteudo">
+        <div class="texto">
+            <h2> Não é apenas um café é um <span>Starbucks</span></h2>
+            <p>A vida é curta, mas o café está sempre lá para tornar cada momento mais rico e saboroso.</p>
+
+
+        </div>
+
+        <div class="botao">
+            <button>ESCOLHA O SEU CAFÉ</button>
+        </div>
+    </div>
+
+    <div class="copão" >
+        <img src="img1.png"class="copo">
+
+        
+    </div>
+<script>
+
+    let circulo = document.querySelector(".circulo")
+    let copaoo = document.querySelector(".copão")
+    let vr = document.querySelector(".vr")
+    let rr = document.querySelector(".rr")
+    let aa = document.querySelector(".aa")
+
+    rr.addEventListener("click", () => {
+        copaoo.src = "img2.png"
+
+        circulo.style.background = "#ff66d3"
+
+    })
+    vr.addEventListener("click", () => {
+
+        copaoo.src = "img1.png"
+        circulo.style.background = "#0d7b01"
+    })
+
+    aa.addEventListener("click", () => {
+
+        copaoo.src = "img3.png"
+        circulo.style.background = "#78e6e4"
+
+    })
+
+
+
+
+</script>
+
+</html>

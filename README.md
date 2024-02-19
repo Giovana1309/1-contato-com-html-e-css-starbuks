@@ -15,7 +15,8 @@
 <h1 id="objetivo"> Objetivo </h1>
  
  <h2> 
-Este foi meu 1 projeto desenvolvido no <a href="https://rodolfomori.com.br/devclub"> DevClub </a> visava aprender programação do 0 em 3 dias. Ao desenvolver uma única página, foi possível consolidar habilidades de forma eficaz e praticar a responsividade.  </h2>
+Este foi meu 1 projeto desenvolvido no <a href="https://rodolfomori.com.br/devclub"> DevClub </a> visava aprender programação do 0 em 3 dias. Ao desenvolver uma única página, foi possível consolidar habilidades de forma eficaz e praticar a responsividade. 
+Neste projeto, aprendi HTML básico, incluindo elementos como h1, h2, p, b, div, a, body e header, além de CSS básico, que inclui a manipulação de cores, ações e tamanhos. </h2>
 <br>
 
 <h1 id="tecnologias"> Tecnologias ultilizadas </h1>

@@ -24,7 +24,8 @@ Este foi meu 1 projeto desenvolvido no <a href="https://rodolfomori.com.br/devcl
 <h1 id="html"> Html </h1>
 
 <br>
-HTML é a linguagem de marcação essencial para criar e organizar páginas da web, fornecendo a estrutura básica na qual o conteúdo é apresentado. Consiste em uma série de elementos ou tags, cada um com uma função específica, interpretados pelos navegadores para exibir textos, imagens, links, entre outros. Permite que os desenvolvedores descrevam o conteúdo de forma semântica, com significado estrutural, usando elementos como <h1> para títulos, <p> para parágrafos, e <img> para imagens. É complementado por tecnologias como CSS e JavaScript para estilização e interatividade.
+HTML é a linguagem de marcação essencial para criar e organizar páginas da web, fornecendo a estrutura básica na qual o conteúdo é apresentado. Consiste em uma série de elementos ou tags, cada um com uma função específica, interpretados pelos navegadores para exibir textos, imagens, links, entre outros. Permite que os desenvolvedores descrevam o conteúdo de forma semântica, com significado estrutural, usando elementos como h1 para títulos, p para parágrafos, e img para imagens. É complementado por tecnologias como CSS e JavaScript para estilização e interatividade.
+ 
 <br>
 
 <h1 id = "css"> Css </h1>
@@ -45,4 +46,4 @@ CSS, ou Cascading Style Sheets, é uma linguagem de estilo utilizada para defini
 
 <br>
 
-<img src=""
+<img src="https://github.com/Giovana1309/1-contato-com-html-e-css-starbuks/blob/main/Novo%20Projeto%20(4).png?raw=true">

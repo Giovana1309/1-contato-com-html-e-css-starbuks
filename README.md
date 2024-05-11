@@ -5,7 +5,7 @@
 <a href="#css"> CSS </a> <br>
 <a href="#responsividade"> Responsividade  </a> <br>
 <a href="#imagem">Imagem do projeto </a><br>
-<a href="https://starbuckscss.netlify.app/"> Visite o site </a> <br>
+<a href="https://giovana1309.github.io/1-contato-com-html-e-css-starbuks/"> Visite o site </a> <br>
 
 <h1> Projeto Starbucks - Primeiro contato com HTML e CSS </h1>
  
